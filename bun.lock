@@ -25,8 +25,8 @@
       "name": "@solucky/app",
       "version": "1.0.0",
       "dependencies": {
-        "@iconify-json/lucide": "1.2.152",
-        "@iconify-json/simple-icons": "1.2.101",
+        "@iconify-json/lucide": "1.2.154",
+        "@iconify-json/simple-icons": "1.2.102",
         "@nuxt/ui": "4.12.0",
         "@nuxtjs/i18n": "10.6.0",
         "@solana/kit": "8.6.0",
@@ -284,9 +284,9 @@
 
     "@humanwhocodes/retry": ["@humanwhocodes/retry@0.4.3", "", {}, "sha512-bV0Tgo9K4hfPCek+aMAn81RppFKv2ySDQeMoSZuvTASywNTnVJCArCZE2FWqpvIatKu7VMRLWlR1EazvVhDyhQ=="],
 
-    "@iconify-json/lucide": ["@iconify-json/lucide@1.2.152", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-OQTsOaQ+kD8yhy5EATMD5QHe5O+XJVibExdaRCaXP3hvNPNkn6wVUcTrGA16yU2luqe0ImE4qP74WBK8JuwwNA=="],
+    "@iconify-json/lucide": ["@iconify-json/lucide@1.2.154", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-8+fuquLzqefUqEsnQSn77laDESOd9AX5ZM9zQzL5HT9DN58DtzwMIkLXxDjX77GAQ8PF4HTMuxhShQCOynwADg=="],
 
-    "@iconify-json/simple-icons": ["@iconify-json/simple-icons@1.2.101", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-MXJkMZDancJ/9I+Bgdthi9kXvn3AwWStxoTHwEPwAFQ9kMLBASO1BSstg52fNtjXeizm1Wi91R+QnWxNGkWHPQ=="],
+    "@iconify-json/simple-icons": ["@iconify-json/simple-icons@1.2.102", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-IwbAj1ZI6LBy+qU7sVYxB1wgbSSIDKjY9I0BnnpjfIdlqfXoYnBb80UvYA0WkodUFWfQyL4AjaKMg48fqX8sIw=="],
 
     "@iconify/collections": ["@iconify/collections@1.0.764", "", { "dependencies": { "@iconify/types": "*" } }, "sha512-cjPAaJBUaQMSfPF3pBwB35GHJWrD8u26B6aLx/aWo+abiaPyOHF1j0BJ7zBviiCU3TC1j9Mje2rV+X/9evaIBw=="],
 
